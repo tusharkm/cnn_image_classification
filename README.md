@@ -3,11 +3,8 @@ CNN model to classify images of Cat and Dogs
 
 Problem Statement:
 ---------------------
-Classification of images as Cat and Dog.
+Classification of images 
 
 Objective
 -------------
-To develop a deep neural network model that identifies and classifies images.
-
-
-Classification of image of Cat and Dog using CNN
+Developed a deep neural network model that classifies images.
