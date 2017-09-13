@@ -38,7 +38,7 @@ classifier.add(Dense(output_dim =1,activation="sigmoid"))
 
 
 #Compiling the CNN
-classifier.compile(optimizer='adam',loss='binary_crossentropy',matrics=['accuarcy'])
+classifier.compile(optimizer='adam',loss='binary_crossentropy',metrics=['accuracy'])
 
 
 #Part2: Fitting the CNN to the images
